@@ -76,6 +76,13 @@ stack-usage.json
         ]
     }
 
+## Using the stack-usage.sh script
+
+- Clone this repository somewhere 
+- Run the script and supply your build directory as an argument
+
+    ~/stack-usage/stack-usage.sh ./build_dir
+
 # License
 
 Copyright (C) 2017 Enrico May
